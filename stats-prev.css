@@ -29,7 +29,8 @@ main{
 .image-1{
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
-    opacity: 0.5;
+    mix-blend-mode: multiply;
+    opacity: 0.75;
     height: 26rem;
 }
 .image-2{
